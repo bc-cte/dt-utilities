@@ -12,6 +12,8 @@
 <div id="kl_module_navigation_block" class="">
 <h3>Module Navigation</h3>
 <p class="kl_module_progress_icons" style="display: none;">Icon Progress Bar/Navigation (built in browser, hidden in app)</p>
+<div class="kl_current_module_container"><span class="kl_current_module_name">Module Name</span></div>
+</div>
 
 //Replace with
 <div id="kl_module_navigation_block">
