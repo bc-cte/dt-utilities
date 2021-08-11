@@ -1,0 +1,11 @@
+// Recipe for Converting a BC Summer Theme to Woods Theme
+
+//Update the theme
+replace "kl_summer"
+with "kl_woods"
+
+//Update school branding
+replace "<p class="kl_subtitle">Boston College Summer Session</p>"
+with "<div id="kl_description">Woods College of Advancing Studies</div>"
+
+// check to see if there are div id="kl_description">Woods College of Advancing Studies</div> in the module orientation pages or elsewhere

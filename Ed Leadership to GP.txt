@@ -1,0 +1,9 @@
+// Recipe for Converting an Ed Leadership Theme to GP Theme
+
+//Update the theme
+replace "kl_higher_ed_leadership"
+with "kl_global_perspectives"
+
+// Update school/program branding
+replace "<span class="kl_mod_text">Boston College Lynch School of Education and Human Development </span>"
+with "<span class="kl_mod_text">Global Perspectives | Boston College | Lynch School of Education </span>"

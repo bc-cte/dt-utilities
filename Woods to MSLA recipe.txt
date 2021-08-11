@@ -1,0 +1,13 @@
+// Recipe for Converting a Woods Theme to MSLA Theme
+
+//Update the theme
+replace "kl_woods"
+with "kl_msla"
+
+// Update school branding
+replace "<div id="kl_description">Woods College of Advancing Studies Boston College</div>"
+with "<p class="kl_subtitle">Woods College of Advancing Studies Boston College</p>"
+
+//remove subtitle (course/shcool name) from module pages
+replace "<p class="kl_subtitle">Woods College of Advancing Studies</p>"
+with ""
