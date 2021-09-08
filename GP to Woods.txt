@@ -1,0 +1,11 @@
+// Recipe for Converting a GP Theme to Woods Theme
+
+//Update the theme
+replace "kl_global_perspectives"
+with "kl_woods"
+
+//Update school branding
+replace "<span id="kl_banner_left"><span class="kl_mod_text">Global Perspectives | Boston College | Lynch School of Education </span> </span>"
+with "<div id="kl_description">Woods College of Advancing Studies</div>"
+
+// Remove or update the site name - check to see if there's <div id="kl_description"> [name of course ] </div>
