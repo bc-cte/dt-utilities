@@ -4,10 +4,8 @@
 replace "kl_woods"
 with "kl_mssa"
 
-// Update school branding
-replace "<div id="kl_description">Woods College of Advancing Studies Boston College</div>"
-with "<p class="kl_subtitle">Woods College of Advancing Studies Boston College</p>"
-
 //remove subtitle (course/school name) from module pages
 replace "<p class="kl_subtitle">Woods College of Advancing Studies</p>"
 with ""
+
+// MANUAL CHANGE: swap description and title fields on homepage
