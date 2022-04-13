@@ -1,4 +1,4 @@
-// Recipe for Converting a Woods Theme to MSLA Theme
+// Recipe for Converting a Woods Theme to MSSA Theme
 
 //Update the theme
 replace "kl_woods"
