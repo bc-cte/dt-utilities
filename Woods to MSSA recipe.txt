@@ -2,7 +2,7 @@
 
 //Update the theme
 replace "kl_woods"
-with "kl_msla"
+with "kl_mssa"
 
 // Update school branding
 replace "<div id="kl_description">Woods College of Advancing Studies Boston College</div>"
